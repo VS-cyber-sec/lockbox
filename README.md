@@ -2,9 +2,8 @@
 Encrypt and decrypt files using **AES-256 (CBC mode)** with **PBKDF2 key derivation**.   Built for security and simplicity.
 
 # Warning 
-  Use This repo for the ransomwar attack understanding or learning purpose only.
-  If you forget the password, files cannot be recovered.
-  Always test with samle data before encrypting important files.
+Use this repository for the understanding of ransomware attacks and learning purpose only, files cannot be recovered if password is lost. 
+Always test with sample data first.
 
 ## ✨ Features
 
