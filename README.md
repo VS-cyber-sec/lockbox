@@ -50,4 +50,6 @@ Install inside a virtual environment (recommended):
   This project is licensed undet the MIT License
   see LICENSE 
 
-## Warning : Use this project for educational purpose only . Don't do any ransomware attack.  
+## Warning : 
+Use this repository for the understanding of ransomware attacks and learning purpose only, files cannot be recovered if password is lost. 
+Always test with sample data first.
