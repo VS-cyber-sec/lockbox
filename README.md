@@ -24,9 +24,9 @@ Install inside a virtual environment (recommended):
 # Step by Step process
  1.Clone the repository
  
-    git clone https://github.com/<YOUR-USERNAME>/<YOUR-REPO>.git
+    git clone https://github.com/VS-cyber-sec/lockbox.git
  
-    cd <YOUR-REPO>
+    cd lockbox
  2.Activate the virtual environment
 
     source ~/cryptoenv/bin/activate
